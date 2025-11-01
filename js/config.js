@@ -119,10 +119,6 @@ const API_SITES = {
         api: 'https://www.fantuan.tv/api.php/provide/vod/',
         name: '饭团影视'
     },
-    qiqidys: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod/',
-        name: '七七资源'
-    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
